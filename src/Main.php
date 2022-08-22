@@ -28,3 +28,4 @@ class main extends PluginBase{
 			$this->getLogger()->info(TextFormat::DARK_AQUA . "Goodbye hope you had fun!!");
 		}
 }
+  }
